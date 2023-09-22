@@ -1,4 +1,4 @@
-# CakePHP 4 extension for PHPStan
+# CakePHP 5 extension for PHPStan
 
 [![Build Status](https://secure.travis-ci.org/CakeDC/cakephp-phpstan.png?branch=master)](http://travis-ci.org/CakeDC/cakephp-phpstan)
 [![Downloads](https://poser.pugx.org/CakeDC/cakephp-phpstan/d/total.png)](https://packagist.org/packages/CakeDC/cakephp-phpstan)
@@ -71,6 +71,6 @@ If you'd like to contribute new features, enhancements or bug fixes to the plugi
 License
 -------
 
-Copyright 2020 Cake Development Corporation (CakeDC). All rights reserved.
+Copyright 2020-2023 Cake Development Corporation (CakeDC). All rights reserved.
 
 Licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) License. Redistributions of the source code included in this repository must retain the copyright notice found in each file
